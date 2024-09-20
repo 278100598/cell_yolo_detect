@@ -1,0 +1,8 @@
+names:
+- yellow
+- red
+- blue
+nc: 3
+test: ../datasets/test_datasets/TEST-3 Normalize/valid
+train: ../datasets/test_datasets/TEST-3 Normalize/train
+val: ../datasets/test_datasets/TEST-3 Normalize/valid

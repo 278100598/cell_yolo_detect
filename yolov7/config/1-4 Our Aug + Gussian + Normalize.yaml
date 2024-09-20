@@ -1,0 +1,8 @@
+names:
+- yellow
+- red
+- blue
+nc: 3
+test: ./datasets/1-4 Our Aug + Gussian + Normalize/valid.txt
+train: ./datasets/1-4 Our Aug + Gussian + Normalize/train.txt
+val: ./datasets/1-4 Our Aug + Gussian + Normalize/valid.txt

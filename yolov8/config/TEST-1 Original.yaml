@@ -1,0 +1,9 @@
+names:
+- yellow
+- red
+- blue
+nc: 3
+path: ./
+test: test_datasets/TEST-1 Original/valid
+train: test_datasets/TEST-1 Original/train
+val: test_datasets/TEST-1 Original/valid

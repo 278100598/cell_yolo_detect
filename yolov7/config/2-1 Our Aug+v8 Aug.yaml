@@ -1,0 +1,8 @@
+names:
+- yellow
+- red
+- blue
+nc: 3
+test: ./datasets/2-1 Our Aug+v8 Aug/valid.txt
+train: ./datasets/2-1 Our Aug+v8 Aug/train.txt
+val: ./datasets/2-1 Our Aug+v8 Aug/valid.txt

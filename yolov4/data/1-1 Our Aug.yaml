@@ -1,0 +1,7 @@
+train: ./datasets/1-1 Our Aug/train.txt
+val: ./datasets/1-1 Our Aug/valid.txt
+test: ./datasets/1-1 Our Aug/valid.txt
+
+nc: 3
+
+names: ['yellow', 'red', 'blue']

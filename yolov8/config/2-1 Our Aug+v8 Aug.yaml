@@ -1,0 +1,9 @@
+names:
+- yellow
+- red
+- blue
+nc: 3
+path: ./
+test: train_datasets/2-1 Our Aug+v8 Aug/valid
+train: train_datasets/2-1 Our Aug+v8 Aug/train
+val: train_datasets/2-1 Our Aug+v8 Aug/valid

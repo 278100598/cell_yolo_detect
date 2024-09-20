@@ -1,0 +1,8 @@
+names:
+- yellow
+- red
+- blue
+nc: 3
+test: ../datasets/new_train_datasets/new 2-2 Our Aug+v8 Aug + Gussian/valid
+train: ../datasets/new_train_datasets/new 2-2 Our Aug+v8 Aug + Gussian/train
+val: ../datasets/new_train_datasets/new 2-2 Our Aug+v8 Aug + Gussian/valid

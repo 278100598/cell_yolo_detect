@@ -1,0 +1,9 @@
+names:
+- yellow
+- red
+- blue
+nc: 3
+path: ./
+test: test_datasets/TEST-4 Gussian + Normalize/valid
+train: test_datasets/TEST-4 Gussian + Normalize/train
+val: test_datasets/TEST-4 Gussian + Normalize/valid

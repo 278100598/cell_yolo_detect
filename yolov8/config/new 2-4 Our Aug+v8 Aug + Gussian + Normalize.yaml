@@ -1,0 +1,9 @@
+names:
+- yellow
+- red
+- blue
+nc: 3
+path: ./
+test: new_train_datasets/new 2-4 Our Aug+v8 Aug + Gussian + Normalize/valid
+train: new_train_datasets/new 2-4 Our Aug+v8 Aug + Gussian + Normalize/train
+val: new_train_datasets/new 2-4 Our Aug+v8 Aug + Gussian + Normalize/valid

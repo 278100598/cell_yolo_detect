@@ -1,0 +1,15 @@
+*3d*
+*livecell*
+*blood*
+*.cache
+*.cache3
+*runs*
+*.pt
+*.mp4
+*result epoch 6000*
+*__pycache__*
+*.log
+*.weights
+*.csv
+new_datasets_result
+exp_results/*

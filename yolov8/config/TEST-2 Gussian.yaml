@@ -1,0 +1,9 @@
+names:
+- yellow
+- red
+- blue
+nc: 3
+path: ./
+test: test_datasets/TEST-2 Gussian/valid
+train: test_datasets/TEST-2 Gussian/train
+val: test_datasets/TEST-2 Gussian/valid
