@@ -68,12 +68,3 @@ for i in set(x.split('.')[0] for x in os.listdir(original_path)):
         cv2.imwrite(f'../datasets/{name}/train/{i}.jpg', img)
         shutil.copyfile(f"{original_path}/{i}.txt", f"../datasets/{name}/train/{i}.txt")
 
-#livecell
-#cv2.normalize(src,dst,alpha=252.2368,beta=71.5264,norm_type=cv2.NORM_MINMAX)
-#cv2.GaussianBlur(img,(9,9),sigmaX=0.0,sigmaY=0.0)
-#cv2.Canny(img, threshold1=7.5264, threshold2=18.816,apertureSize=3)
-
-#blood
-#cv2.normalize(src,dst,alpha=240.9472,beta=71.5264,norm_type=cv2.NORM_MINMAX)
-#cv2.GaussianBlur(img,(13,13),sigmaX=0.0,sigmaY=0.0)
-#cv2.Canny(img, threshold1=26.3424, threshold2=22.5792,apertureSize=3)
